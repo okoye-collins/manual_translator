@@ -1,0 +1,13 @@
+.venv
+.vscode/
+__pycache__/
+*.sqlite3
+notes.md
+venv
+secret.json
+env
+README.md
+out
+media
+login
+load_school_data.sh
